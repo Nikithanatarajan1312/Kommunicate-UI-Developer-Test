@@ -1,6 +1,6 @@
 My best project would be the Human Resource Management System Web Application that I developed. Manually doing the HRMS work would take lot of human work and time. 
 But automating it would make the work simplier, easier and more manageable.
-In the project I have used HTML, CSS, JavaScript and SQL. The web Application has modules such as Departments, Trainings and Evaluations. 
+In the project I have used HTML, CSS, JavaScript and SQL. The web Application has modules such as Login, Departments, Trainings and Evaluations. 
 Department Management module is used for managing department details. It presents with list of departments that is available in the system and also the feature to add new departments
 to the system. The admin and manager can add new departments to the system and the admin and manager can view the all departments that inserted to the system and can also edit or delete them.
 With the HRMS Training module, the businesses can correctly concentrate on the right training and skill development of their employees. Alongside they can arrange everything at
